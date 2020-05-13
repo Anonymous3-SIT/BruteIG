@@ -3,7 +3,7 @@ MULTI BRUTE INSTAGRAM <br><br>
 
 $ pkg update && pkg upgrade <br>
 $ pkg install curl && pkg install jq <br>
-$ git clone https://github.com/ICT154/ngehek-ig <br>
+$ git clone https://github.com/Anonymous3-SIT/BruteIG <br>
 $ bash ngehek-ig.sh <br>
 
 Done :)
