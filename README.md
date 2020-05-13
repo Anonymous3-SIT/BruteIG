@@ -1,4 +1,4 @@
-# ngehek-ig
+# BruteIG
 MULTI BRUTE INSTAGRAM <br><br>
 
 $ pkg update && pkg upgrade <br>
